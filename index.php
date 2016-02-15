@@ -56,7 +56,7 @@
                         <a class="page-scroll" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">Skills</a>
+                        <a class="page-scroll" href="#skills">Skills</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#portfolio">Portfolio</a>
@@ -89,13 +89,13 @@
                     <h2 class="section-heading">About Me</h2>
                     <hr class="light">
                     <p class="text-faded">I am a Junior Computer Science and Web & Information Systems major at the New Jersey Institute of Technology.  I have knowledge in HTML, CSS, Javascript, Java, PHP, Python, and C++ as well as extensive experience in UNIX systems.</p>
-                    <a href="#" class="btn btn-default btn-xl">Learn More!</a>
+                    <a href="#skills" class="btn btn-default btn-xl page-scroll">Learn More!</a>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="services">
+    <section id="skills">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -162,10 +162,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Spring 2016
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Resume
                                 </div>
                             </div>
                         </div>
@@ -235,22 +235,13 @@
         </div>
     </section>
 
-    <aside class="bg-dark">
-        <div class="container text-center">
-            <div class="call-to-action">
-                <h2>Free Download at Start Bootstrap!</h2>
-                <a href="#" class="btn btn-default btn-xl wow tada">Download Now!</a>
-            </div>
-        </div>
-    </aside>
-
     <section id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Let's Get In Touch!</h2>
                     <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                    <p>Here's my contact info if you have any questions or opportunities!</p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                     <i class="fa fa-phone fa-3x wow bounceIn"></i>

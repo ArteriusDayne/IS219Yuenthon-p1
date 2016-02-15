@@ -99,7 +99,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">At Your Service</h2>
+                    <h2 class="section-heading">Skills</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -108,30 +108,30 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        
-                        <h3>Sturdy Templates</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+                        <i class="fa fa-4x fa-spinner fa-pulse wow text-primary" data-wow-delay=".3s"></i>
+                        <h3>Unix Systems</h3>
+                        <p class="text-muted">Experience in UNIX systems such as Ubuntu, Fedora and Red Hat, as well as Terminal commands</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-paper-plane wow bounceIn text-primary" data-wow-delay=".1s"></i>
-                        <h3>Ready to Ship</h3>
-                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+                        <i class="fa fa-4x fa-database wow bounceIn text-primary" data-wow-delay=".1s"></i>
+                        <h3>Multiple Languages</h3>
+                        <p class="text-muted">Knowledgeable in HTML, CSS, Javascript, Java, PHP, Python, C++ and SQL databases </p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-newspaper-o wow bounceIn text-primary" data-wow-delay=".2s"></i>
-                        <h3>Up to Date</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                        <i class="fa fa-4x fa-tablet wow bounceIn text-primary" data-wow-delay=".2s"></i>
+                        <h3>Mobile Apps</h3>
+                        <p class="text-muted">Experience creating mobile apps for the android platform</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-heart wow bounceIn text-primary" data-wow-delay=".3s"></i>
-                        <h3>Made with Love</h3>
-                        <p class="text-muted">You have to make your websites with love these days!</p>
+                        <i class="fa fa-4x fa-cog fa-spin wow text-primary" data-wow-delay=".3s"></i>
+                        <h3>Hardware Knowledge</h3>
+                        <p class="text-muted">Extensive knowledge into the inner workings of a PC, as well as networks and routers</p>
                     </div>
                 </div>
             </div>

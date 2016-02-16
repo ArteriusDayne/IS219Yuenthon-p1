@@ -147,10 +147,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Profile
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Bot Yuenthon
                                 </div>
                             </div>
                         </div>
@@ -177,10 +177,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    External Work
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    GitHub
                                 </div>
                             </div>
                         </div>
@@ -192,10 +192,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    Mobile App
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Vandal
                                 </div>
                             </div>
                         </div>
@@ -207,10 +207,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    External Work
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    deviantArt
                                 </div>
                             </div>
                         </div>
@@ -222,10 +222,10 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    External Site
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    LinkedIn
                                 </div>
                             </div>
                         </div>
@@ -249,7 +249,7 @@
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:your-email@your-domain.com">ty57@njit.edu</a></p>
+                    <p><a href="ty57@njit.edu">ty57@njit.edu</a></p>
                 </div>
             </div>
         </div>

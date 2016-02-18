@@ -67,9 +67,9 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                     <div class="post-heading">
-                        <h1>Man must explore, and this is exploration at its greatest</h1>
-                        <h2 class="subheading">Problems look mighty small from 150 miles up</h2>
-                        <span class="meta">Posted by <a href="#">Start Bootstrap</a> on August 24, 2014</span>
+                        <h1>This is me!</h1>
+                        <h2 class="subheading">My life story</h2>
+                        <span class="meta">Posted by <a href="Profile.php">Bot Yuenthon</a> on February 15, 2016</span>
                     </div>
                 </div>
             </div>
@@ -81,7 +81,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+                    <p>I was born in Thailand before I moved to New Jersey when I was 3.  Lived in Clifton for almost 6 years, and I didn't start school until I hit kindergarten.  I've also lived in England for 4 years, where I picked up my passion for football and Arsenal FC,before I moved back to Thailand for highschool.</p>
 
                     <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
 
@@ -91,7 +91,7 @@
 
                     <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
 
-                    <h2 class="section-heading">The Final Frontier</h2>
+                    <h2 class="section-heading">Arsenal</h2>
 
                     <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
 
